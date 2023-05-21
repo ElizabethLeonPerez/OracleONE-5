@@ -31,6 +31,18 @@ Que git rebase no genera un commit de merge, lo que simplifica nuestro log;
 
 Opción correcta! Con el git restore deshacemos una modificación que aún no fue agregada al index o stage, o sea, antes de hacer git add. Después de agregar con git add, para deshacer una modificación, necesitamos sacarlo de este estado, con git restore --staged. Ahora, si ya hicimos el commit, el comando git revert puede salvarnos.
 
+### Tag
+Sirve para crear un "realease". Una versión estática del código creado, que puede ser descargable. 
+
+1- 'git tag -a v0.1.0'
+2- 'git push origin v0.1.0'
+3- Abrir la página del repositorio de GitHub que creaste y verifica la pestaña Releases.
+
+### 
+
+'git log --oneline'
+'git remote -v'
+
 
 ## Recursos 
 Página cheatsheet:
