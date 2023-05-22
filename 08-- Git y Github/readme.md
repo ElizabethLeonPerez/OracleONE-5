@@ -45,6 +45,8 @@ Sirve para crear un "realease". Una versión estática del código creado, que p
 2- 'git push origin v0.1.0'
 3- Abrir la página del repositorio de GitHub que creaste y verifica la pestaña Releases.
 
+* 'git tag -n' para ver las tags creadas y su mensaje
+
 ### 
 
 'git log --oneline'
