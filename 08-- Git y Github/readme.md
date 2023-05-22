@@ -21,6 +21,13 @@ Se puede usar 'merge' o 'rebase' para unificar la información.
 
 'git checkout -b lista'
 
+### Para eliminar una branch
+Primero para ver las branches hay que poner 
+'git branch -a'
+'git branch --delete "nombre-de-branch"'
+Para eliminar la branch de github
+'git push origin -d "nombre-de-branch"'
+
 ### Para ver los commits por branch
 
 'git log --graph'
