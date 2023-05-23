@@ -4,3 +4,5 @@
 ### Recursos
 
 unicode-table.com 
+
+mobileinputtypes.com 
