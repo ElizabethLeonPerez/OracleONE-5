@@ -1,5 +1,6 @@
 
+# Notas generales del curso
 
-### Recursos:
+### Recursos
 
 unicode-table.com 
