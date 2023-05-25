@@ -15,3 +15,6 @@ El objetivo de este curso es practicar con juegos y programas para dinamizar el 
 * Interaciones con el usuario: eventos
 * Animaciones 
 
+## Recursos
+Documentación 2d canvas
+2d canvas (mozilla)
