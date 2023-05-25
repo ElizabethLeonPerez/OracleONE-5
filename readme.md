@@ -24,7 +24,7 @@ Trabajando con formularios y tablas.
 ### 7- HTML5 y CSS3 parte 4
 Código avanzado en CSS: Pseudo clases, Pseudo elementos.
 
-### 8- Git y Github: controle y comparta su código 
+### 8- Git y Github 
 Introducción a Git, creación de un repositorio local, configuración a un repositorio remoto, branchs, merge, pull and push, tags y realeases.
 
 *Infografía resumen*
