@@ -15,6 +15,8 @@ pesudo clases
 'background: linear-gradient radial-gradient'
 pseudo elementos
 
+# CSS
+### CSS Avanzado
 .titulo-principal:before {
     content: "{";
 }
@@ -22,9 +24,35 @@ pseudo elementos
     content: "[";
 }
 
-'clear'
+'h3 > p {
+    background: yellow; 
+}'
+
+Para señalar solo el primer elemento luego de la primera etiqueta señalada.
+' h3 + p {
+    background: yellow;
+}'
+
+Para señalar todos los elementos luego de la primera etiqueta señalada.
+'img ~ p {
+    background: yellow; 
+}'
+
+A todos menos al ID
+.principal p:not(#mision) {
+    background: #088c19;
+}
+
+## Simbolos 
+
+~ 'Alt + 126'
+' 'Ctrl + 39'
+
+
 ### Recursos
 
 unicode-table.com 
-
 mobileinputtypes.com 
+
+
+'clear'
